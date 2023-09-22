@@ -8,4 +8,4 @@ Objetivo: Criar o primeiro reposítório do GitHub
 
 [Bootcamp Avanti](https://www.atlanticoavanti.com.br/bootcamp)
 
-[Sytx Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sytax Markdown](https://www.markdownguide.org/basic-syntax/)
